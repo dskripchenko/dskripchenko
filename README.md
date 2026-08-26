@@ -82,6 +82,12 @@ is worse than no badge at all.
 | [ui](https://github.com/dskripchenko/ui) | — | [![](https://img.shields.io/npm/v/@dskripchenko/ui?label=)](https://www.npmjs.com/package/@dskripchenko/ui) | Vue 3 component kit built on CSS custom properties. No Tailwind, no CSS-in-JS. |
 | [wysiwyg](https://github.com/dskripchenko/wysiwyg) | [![](https://img.shields.io/github/actions/workflow/status/dskripchenko/wysiwyg/ci.yml?branch=main&label=)](https://github.com/dskripchenko/wysiwyg/actions/workflows/ci.yml) | [![](https://img.shields.io/npm/v/@dskripchenko/wysiwyg?label=)](https://www.npmjs.com/package/@dskripchenko/wysiwyg) | Editor with its own contenteditable engine, markdown shortcuts and a slash menu. |
 
+### Development environment
+
+| Project | CI | Version | What it does |
+| --- | --- | --- | --- |
+| [portable](https://github.com/dskripchenko/portable) | [![](https://img.shields.io/github/actions/workflow/status/dskripchenko/portable/tests.yml?branch=main&label=)](https://github.com/dskripchenko/portable/actions/workflows/tests.yml) | [![](https://img.shields.io/github/v/release/dskripchenko/portable?label=)](https://github.com/dskripchenko/portable/releases/latest) | A local stack for Windows — PHP, Caddy, PostgreSQL, MariaDB, Redis, Node — installed beside the system: no administrator, no `hosts`, no services, one folder. |
+
 ### Laravel plumbing
 
 | Package | CI | Version | What it does |
